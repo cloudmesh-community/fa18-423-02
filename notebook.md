@@ -4,7 +4,10 @@ Attended Lecture on 8/31
 Reviewed Big Data Use Cases (https://github.com/cloudmesh-community/book/blob/master/chapters/bigdata/applications/usecases.md)
 
 Reviewed Python from Epub
+
 Reviewed SSH - stucked and unable to create ssh on local machine
+
 Reviewed Linux
+
 Reviewed Vagrant
 
