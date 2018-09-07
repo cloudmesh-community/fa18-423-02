@@ -11,3 +11,7 @@ Reviewed Linux
 
 Reviewed Vagrant
 
+
+Week 3 9/7/2018 - 9/14/2018
+
+Attended Lecture on 9/7 - Covering multiple "Big Data Impression"
