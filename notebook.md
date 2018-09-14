@@ -15,3 +15,11 @@ Reviewed Vagrant
 Week 3 9/7/2018 - 9/14/2018
 
 Attended Lecture on 9/7 - Covering multiple "Big Data Impression"
+
+Week 4 9/14/2018 - 9/21/2018
+
+Attended Lecture on 9/14
+
+Going through jabref
+
+Claimed 2 technologies on the epub
