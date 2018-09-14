@@ -23,3 +23,5 @@ Attended Lecture on 9/14
 Going through jabref
 
 Claimed 2 technologies on the epub
+
+Using emacs "ESC-x auto-fill-mode"
