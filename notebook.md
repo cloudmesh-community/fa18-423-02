@@ -25,3 +25,11 @@ Going through jabref
 Claimed 2 technologies on the epub
 
 Using emacs "ESC-x auto-fill-mode"
+
+Week 4 9/14/2018 - 9/21/2018
+
+Attended Lecture on 9/14
+
+Week 5 9/21/2018 - 9/28/2018
+
+Attended Lecture on 9/21/2018
