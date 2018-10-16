@@ -33,3 +33,24 @@ Attended Lecture on 9/14
 Week 5 9/21/2018 - 9/28/2018
 
 Attended Lecture on 9/21/2018
+
+Week 6 9/28/2018 - 10/5/2018
+
+Attended lecture on 9/28/2018: Going through projects and technology summaries.
+
+General Paper structure:
+- Title
+- Abstract
+- Introduction
+- Requirement
+- Architecture
+- Implementation
+- Benchmark
+- Conclusion
+- Bibliography
+- Work breakdown
+
+Using Overleaf for LaTex
+
+Going through Scientific Writing II
+-

@@ -4,3 +4,17 @@ owner:
   lastname: "Liuwie"
   hid: "fa18-423-02"
   community: "I423"
+technologies:
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/hbase.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/tensorflow.md
+paper:
+  - title: N/A
+    url: tbd
+    group: fa18-423-02
+project:
+  - title: Sports Data Analytics
+    keyword: Sports
+    url: tbd
+    group: fa18-423-02
+    code: tbd
+
