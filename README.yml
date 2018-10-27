@@ -4,6 +4,7 @@ owner:
   lastname: "Liuwie"
   hid: "fa18-423-02"
   community: "I423"
+  semester: fa18
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/hbase.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/tensorflow.md
