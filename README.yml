@@ -8,6 +8,8 @@ owner:
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/hbase.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/tensorflow.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/dataturbine.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/opencv.md
 paper:
   - title: N/A
     url: tbd
