@@ -13,6 +13,6 @@ technologies:
 project:
   - title: Big Data on Health Care - Drug Adverse Effect on Patient
     keyword: Health Care
-    url: tbd
+    url: https://github.com/cloudmesh-community/fa18-423-02/tree/master/project-report
     group: fa18-423-02 fa18-423-03 fa18-423-06 fa18-423-05
-    code: tbd
+    code: https://github.com/cloudmesh-community/fa18-423-02/tree/master/project-code
