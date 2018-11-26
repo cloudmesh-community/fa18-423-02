@@ -5,6 +5,7 @@
 
 The project ultimate goal is to improve the health care system that we currently have by further looking into drugs that patients used. Patients are prescribed with multiple drugs for the purpose of curing their illness. On the hope of doing so, some patients may recover fully, and some may not be so lucky.  Taking different drugs at the same time might cause them to interact with one another and thus resulting in unforeseeable adverse effect on the patients themselves. As such, patients may become more ill or sometimes can lead to death. The currently available information is being stored in a big file data which only partial of the information is useful to run query on. Therefore, the purpose of this project is to assist in terms of streamlining the currently available information into more digestible data that can be used by users to do further research on the drugs and the patient reactions.
 
+
 **Requirement:**
 
 The program can be run on different computer operating systems such as Linux, Microsoft, and Mac with basic requirement fulfilled. Different server services can be accessed through [Amazon Web Services](http://bl) [Microsoft Azure](http)
@@ -12,6 +13,7 @@ The program can be run on different computer operating systems such as Linux, Mi
 Basic requirement:
   * Python3
   * Python libraries: pandas, numpy
+
 
 **Installing Requirements**
 
@@ -23,6 +25,7 @@ For pandas and numpy installation, it can be found [here](https://pandas.pydata.
 
 
 **Running Program**
+
 In this directory, there are two programs that served different function.
 
   * project.py is for parsing the xml file into smaller csv file that only contains 3 headings
