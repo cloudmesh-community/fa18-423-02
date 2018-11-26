@@ -8,7 +8,7 @@ The project ultimate goal is to improve the health care system that we currently
 
 **Requirement:**
 
-The program can be run on different computer operating systems such as Linux, Microsoft, and Mac with basic requirement fulfilled. Different server services can be accessed through [Amazon Web Services](https://github.com/cloudmesh-community/fa18-423-02/blob/master/project-code/aws-setup.md) [Microsoft Azure](http)
+The program can be run on different computer operating systems such as Linux, Microsoft, and Mac with basic requirement fulfilled. Different server services can be accessed through [Amazon Web Services](https://github.com/cloudmesh-community/fa18-423-02/blob/master/project-code/aws-setup.md) [Microsoft Azure](https://github.com/cloudmesh-community/fa18-423-02/edit/master/project-code/azure-setup.md)
 
 Basic requirement:
   * Python3
