@@ -55,7 +55,7 @@ Steps to achieve desired result:
   Please put the Drug, format as a list for multiple Drug, e.g. [x,y,z]: Calcium
   ```
 
-  For example, if you are looking for *Calcium* and *Aspirin*
+  For example, if you are looking for *Calcium* and *Aspirin*.
 
   ```
   Please put the Drug, format as a list for multiple Drug, e.g. [x,y,z]: [Calcium, Aspirin.]
