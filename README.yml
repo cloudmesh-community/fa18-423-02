@@ -10,13 +10,9 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/tensorflow.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/dataturbine.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/opencv.md
-paper:
-  - title: N/A
-    url: tbd
-    group: fa18-423-02
 project:
-  - title: Sports Data Analytics
-    keyword: Sports
+  - title: Big Data on Health Care - Drug Adverse Effect on Patient
+    keyword: Health Care
     url: tbd
-    group: fa18-423-02
+    group: fa18-423-02 fa18-423-03 fa18-423-06 fa18-423-05
     code: tbd
